@@ -44,3 +44,21 @@
 .container__botao {
     display: none;
 }
+
+.chamada{
+    margin: 1.5em 2em;
+}
+
+.texto__principal{
+    font-size: 48px;
+    font-weight: 700;
+    padding-right: 2em;
+}
+
+.texto__secundario {
+    font-size: 16px;
+    margin-top: 2em;
+    margin-right: 2em;
+}
+
+
