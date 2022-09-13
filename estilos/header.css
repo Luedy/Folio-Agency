@@ -1,3 +1,14 @@
+body, html {
+    height: 100%;
+}
+
+
+.imagem__fundo-linha {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
 .cabecalho {
     display: flex;
     justify-content: space-between;
@@ -59,6 +70,45 @@
     font-size: 16px;
     margin-top: 2em;
     margin-right: 2em;
+    line-height: 28px;
 }
+
+.botao {
+    display: flex;  
+    background-color: #5468E7;
+    padding: 1.5em;
+    text-align: center;
+    width: 65%;
+    color: white;
+    border-radius: 8px;   
+}
+
+.secundario__chamada {
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    flex-wrap: nowrap;
+    background-color: black;
+    
+}
+
+.fim-da-pagina-principal {
+    margin-top: 3em;
+    background-color: red;
+    width: 50%;
+    margin-top: 0;
+    margin-left: 1.5em;
+    display: flex;
+    justify-content: center;
+}
+
+.imagem-da-pagina{
+    position: absolute;
+    width: 30%;  
+    
+}
+
+
 
 
