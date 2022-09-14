@@ -1,0 +1,123 @@
+@import url("what-we-do.css");
+
+body{
+    background: white;
+}
+
+
+.chamada__famous{
+    margin: 2em;
+}
+
+.marcacao__pg4 {
+    padding: 1em 0;
+    color: #5468E7;
+    font-size: 14px;
+}
+
+.titulo__pg4{
+    margin: .5em 0;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    color: #232340;
+}
+
+.descricao__pg4{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #606060;
+}
+
+.card__pg4{
+    margin:  2em;
+    text-align: center;
+}
+
+.img__card1{
+    background: #FFBA79;
+    border-radius: 18px;
+    width: 311px;
+    height: 355px;
+}
+
+.btn__card1{
+    display: block;
+    align-items: center;
+    background-color: #5468E7;
+    padding: 1.5em;
+    padding-bottom: 2em;
+    text-align: center;
+    justify-content: center;
+    width: 28%;
+    height: .4%;
+    margin-left: 3.5em;
+    margin-top: -6em;
+    color: white;
+    border-radius: 25px;
+    position: absolute; 
+    font-size: 10px;
+}
+
+.titulo__card1{
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 1em;
+    margin-left: -2em; 
+    color: #232340;   
+}
+
+.desc__card1{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    margin-top: 1.5em;
+    margin-left: .5em;
+    margin-right: .5em;
+    color:#606060;
+}
+
+.btn__nxt{
+    display: flex;
+    text-align: left;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+    margin-left: .3em;
+}
+
+.img__card4{
+    background:#D1ECFD;
+    border-radius: 18px;
+    width: 311px;
+    height: 355px;
+}
+
+.img__card3{
+    background:#FFCE79;
+    border-radius: 18px;
+    width: 311px;
+    height: 355px;
+}
+
+.img__card2{
+    background:#E8BEFF;
+    border-radius: 18px;
+    width: 311px;
+    height: 355px;
+}
+
+.btn__contato{
+    text-align: center;
+    background: #5468E7;
+    margin: 3em;
+    padding: 1.5em;
+    border-radius: 8px;
+    color: white;
+}
+
+.btn__contato a {
+    font-size: 16px;
+    font-weight: 600;
+}
