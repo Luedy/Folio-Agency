@@ -1,3 +1,5 @@
+@import url("about.css");
+
 .chamada__wwd{
     margin: 0 2em;
 }
@@ -53,3 +55,42 @@
     border-radius: 32px;
 }
 
+.chamada__achievement {
+    margin: 2em;
+}
+
+.marcacao__chamadapg3 {
+    font-size: 14px;
+}
+.titulo__chamadapg3{
+    font-size: 24px;
+    font-weight: 700;
+    margin: 2em 0;
+    padding-right: 3em;
+}
+
+.nb68 {
+    font-size: 140px;
+    color: #5468E7;
+    font-weight: 600;
+}
+
+.emoji__pg3{
+    margin-top: 1em;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.phone__pg3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#pagination {
+    display: flex;
+    width: 5em;
+    align-items: center;
+    position: relative;
+    margin: -15vw;
+}
