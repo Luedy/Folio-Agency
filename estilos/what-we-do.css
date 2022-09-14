@@ -1,0 +1,55 @@
+.chamada__wwd{
+    margin: 0 2em;
+}
+
+.marcacao__pagina{
+    color: #5468E7;
+    font-size: 14px;
+}
+
+.chamada__pg3{
+    margin: 1em 0;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.seta__next {
+    margin-left: 8em;
+}
+
+.card__pag3{
+    display: inline;
+    text-align: center;
+    margin: 4em 2em;
+    padding: 3em;
+    
+}
+
+.card1 {
+    padding: 3em;
+    background-color: aqua;
+    margin: 2em;
+    border-radius: 32px;
+}
+
+.card2 {
+    padding: 3em;
+    background-color:#5468E7;
+    margin: 2em;
+    border-radius: 32px;
+}
+
+.card3 {
+    padding: 3em;
+    background-color:rgb(223, 215, 215);
+    margin: 2em;
+    border-radius: 32px;
+}
+
+.card4 {
+    padding: 3em;
+    background-color:rgb(223, 215, 215);
+    margin: 2em;
+    border-radius: 32px;
+}
+
