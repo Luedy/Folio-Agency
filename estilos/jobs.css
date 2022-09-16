@@ -1,0 +1,56 @@
+body{
+    background: linear-gradient(360deg, rgba(255, 255, 255, 0.0001) 0%, rgba(237, 229, 240, 0.504289) 100%);
+}
+
+.chamada__jobs {
+    margin: 2em;
+}
+
+.marcacao__jobs{
+    font-size: 14px;
+    font-weight: 400;
+    color: #5468E7;
+}
+
+.titulo__jobs{
+    font-size: 40px;
+    font-weight: 700;
+    color: #232340;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.jobs__descricao {
+    color: #606060;
+    font-weight: 400;
+    line-height: 28px;
+    font-size: 14px;
+    vertical-align: top;
+    margin-right: 2em;   
+}
+
+.card__jobs{
+    display: block;
+    background: grey;
+    padding: 2em 2em;
+    margin: 2em;
+    border-radius: 20px;
+}
+
+.titulo__card {
+    font-size: 22px;   
+    font-weight: 700;
+    color: #232340;
+    margin-bottom: .5em;
+    margin-top: .5em;
+}
+
+.notificacao__card{
+    padding-left: 1em;
+    position: absolute;
+    color: #606060;
+}
+
+.card__desc{
+    padding-bottom: 1em;
+}
