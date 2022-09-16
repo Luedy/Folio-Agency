@@ -1,0 +1,107 @@
+.body{
+    margin: 2em;
+    align-items: center;
+}
+
+.chamada__footer{
+    text-align: center;
+    margin: 2em;
+    padding-bottom: 3em;
+    background: #5468E7;
+    border-radius: 24px;
+}
+
+.balao {
+    padding-top: 4em;
+    padding-left: 1.5em;
+}
+
+.subtitulofooter {
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding-top: 1em;
+    padding-bottom: 3em;
+}
+
+.h2__footer{
+    font-size: 18px;
+    text-align: center;
+    font-weight: 500;
+    color: white;
+    line-height: 24px;
+    padding-bottom: 1.5em;
+    margin-right: 1em;
+    margin-left: 1em;
+}
+
+.titulo__footer{
+    font-size: 32px;
+    font-weight: 700;
+    color: white;
+    margin: .5em;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+}
+
+.footer__btn{
+    display: flex;
+    justify-content: center;
+    background: white;
+    padding: 1em 2.5em;
+    margin-left: 2em;
+    margin-right: 2em;
+    border-radius: 8px;
+    margin-top: 1.5em;
+    font-weight: 600;
+    color: #5468E7;
+}
+
+.logo__footer{
+    margin-left: 30%;
+    padding-top: 3em;
+    padding-bottom: 2em;
+}
+
+.footer-desc{
+    font-weight: 400;
+    color: #ADADAD;
+    line-height: 28px;
+    margin: 2em;
+    text-align: center;
+}
+
+#fakedrop{
+   width: 311px;
+   display: flex;
+   height: 48px; 
+   border: 1px solid black;
+   margin: 0 33px;
+   border-radius: 8px;
+   justify-content: space-between;
+   align-items: center;
+   font-size: 12px;
+}
+
+#fakedrop p{
+    margin-left: 2em;
+}
+
+#fakedrop img{
+    width: 18px;
+    height: 14px;
+    margin-right: 1em;
+}
+
+#icones{
+    margin-left: 30%;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+#copyright{
+    text-align: center;
+    margin-bottom: 2em;
+    color: #ADADAD;
+    font-size: 12px;
+}
