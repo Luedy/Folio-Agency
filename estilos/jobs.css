@@ -1,5 +1,8 @@
 body{
-    background: linear-gradient(360deg, rgba(255, 255, 255, 0.0001) 0%, rgba(237, 229, 240, 0.504289) 100%);
+
+    background-image: url("../img/linhajob.svg");
+    background-repeat: no-repeat;
+    background-position: top right;
 }
 
 .chamada__jobs {
@@ -29,15 +32,16 @@ body{
     margin-right: 2em;   
 }
 
-.card__jobs{
+.card__jobs1{
     display: block;
-    background: grey;
+    background: white;
+    
     padding: 2em 2em;
     margin: 2em;
     border-radius: 20px;
 }
 
-.titulo__card {
+.titulo__card1 {
     font-size: 22px;   
     font-weight: 700;
     color: #232340;
@@ -54,3 +58,93 @@ body{
 .card__desc{
     padding-bottom: 1em;
 }
+
+.card__jobs2 {
+    background: #232340;
+    margin-left: 2em;
+    border-radius: 20px 0 0 20px;
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 5em;
+    background-image: url("../img/tentativa.svg");
+    background-repeat: no-repeat;
+    background-position: right;
+    
+    
+}
+
+.titulo__cardjb2{
+    display: flex;
+    margin: 2em;
+    margin-bottom: 0;
+    font-size: 22px;
+    font-weight: 700;
+    color: white;
+}
+
+.desc__card2{
+    display: flex;
+    margin-left: 2.7em;
+    margin-top: .8em;
+}
+
+.seta__cardjb{
+    margin-left: -9.2em;
+    margin-bottom: -2em;
+    margin-top: 2.5em;
+}
+
+
+.card__jobs3{
+    display: block;
+    background: grey;
+    padding: 2em 2em;
+    margin: 2em;
+    border-radius: 20px;
+}
+
+.titulo__card3 {
+    font-size: 22px;   
+    font-weight: 700;
+    color: #232340;
+    margin-bottom: .5em;
+    margin-top: .5em;
+}
+
+.notificacao__card3{
+    padding-left: 1em;
+    position: absolute;
+    color: #606060;
+}
+
+.card__desc3{
+    padding-bottom: 1em;
+}
+
+.card__jobs4{
+    display: block;
+    background: grey;
+    padding: 2em 2em;
+    margin: 2em;
+    border-radius: 20px;
+}
+
+.titulo__card4 {
+    font-size: 22px;   
+    font-weight: 700;
+    color: #232340;
+    margin-bottom: .5em;
+    margin-top: .5em;
+}
+
+.notificacao__card4{
+    padding-left: 1em;
+    position: absolute;
+    color: #606060;
+}
+
+.card__desc4{
+    padding-bottom: 1em;
+}
+
+
