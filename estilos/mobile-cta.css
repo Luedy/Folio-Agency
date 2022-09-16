@@ -1,0 +1,57 @@
+.body, html{
+    width: 100vw;
+}
+
+
+.cta__primario {
+    margin: 2em;
+    background: #5468E7;  
+    border-radius: 10px;
+    height: 900px;
+}
+
+.marcacao__cta {
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+    padding-top: 3em;
+    padding-bottom: 2em;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+.cta__titulo{
+    font-size: 48px;
+    color: white;
+    font-weight: 700;
+    line-height: 56px;
+    padding-left: .5em;
+}
+
+.cta__btn {
+    background-color: white;
+    padding: 1em 2em;
+    border-radius: 8px;
+    margin: 2em 4em;
+    display: flex;
+    margin-left: 1.7em;
+    margin-right: 9em;
+    color:#5468E7 ;
+    font-weight: 500;
+}
+
+.phnoe__cta{
+    width: 80vw;
+    
+}
+
+.bg__rosa {
+    width: 91.6vw;
+    overflow: hidden;
+    height: 86.5vh;
+    background-image: url("../img/bgrosacta.svg");
+    background-repeat: no-repeat;
+    background-position: top right;
+    margin-top: -165vw;
+    
+}
